@@ -9,7 +9,7 @@ Roka System using PHP AND MYSQL
  -  take this repo inside the ```htdocs``` of the XAMPP directory of your device 
  -  After turning the ports. Go to localhost from the broswer or [Tap Me To Go Local Host](http://localhost/phpmyadmin/)
  -  create a database ,table and add entity like the below photo
- <img src="https://user-images.githubusercontent.com/73419211/132890953-152b0af1-ca85-4b70-8a3a-a85c300a6b5c.png" height="550" width="900">
+ <img src="https://user-images.githubusercontent.com/73419211/132890953-152b0af1-ca85-4b70-8a3a-a85c300a6b5c.png">
  
  -  modify the dbCon.php file accordingly to your system
  -  ```localhost/roka_system/login.php``` or according to your path in the broswer to check the ouput 
